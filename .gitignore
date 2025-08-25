@@ -2,6 +2,7 @@
 !.gitignore
 !*/fastfetch
 !*/hypr
+!*/VSCodium/User
 !*/waybar
 !*/wofi
 !starship.toml
